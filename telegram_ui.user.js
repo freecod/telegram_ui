@@ -2,11 +2,12 @@
 // @id              TelegramUI
 // @name            Telegram UI
 // @namespace       http://www.freecod.ru/
+// @include         https://web.telegram.org/*
 // @version         0.0.1
 // @author          freecod < https://github.com/freecod >
 // @description     Few new features for web version telegram
-// @updateURL       
-// @downloadURL     
+// @updateURL       https://github.com/freecod/telegram_ui/raw/master/telegram_ui.user.js
+// @downloadURL     https://github.com/freecod/telegram_ui/raw/master/telegram_ui.user.js
 // ==/UserScript==
 
 (function () {
